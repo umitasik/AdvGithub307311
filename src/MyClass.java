@@ -15,9 +15,6 @@ public class MyClass {
         //Umit değişiklik 2
         System.out.println("umit branch 2");
 
-        //dev içinde değişiklik
-
-
 
     }
 }
