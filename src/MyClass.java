@@ -20,5 +20,6 @@ public class MyClass {
         //Localde dev de yapıldı
 
 
+        //git değişiklik
     }
 }
